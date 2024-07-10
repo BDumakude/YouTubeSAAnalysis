@@ -9,8 +9,6 @@
 
 ## PowerBI Analysis
 
-- Dashboard published to [PowerBi](https://app.powerbi.com/groups/me/reports/de65ae5a-b6fe-476a-8c58-6938fcefe636/6720ad99258af1bf3eee?experience=power-bi)
-
 - ![image](Images/ScreenShot.png)
 
 - For advertising and youtube marketing:

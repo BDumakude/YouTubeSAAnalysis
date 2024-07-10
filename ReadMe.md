@@ -11,6 +11,10 @@
 
 - ![image](Images/ScreenShot.png)
 
+## Tableau Dashboard
+
+The dashboard can be viewed at [Tableau Public](https://public.tableau.com/app/profile/bonga.dumakude/viz/TopSouthAfricanYouTubers/Dashboard1?publish=yes)
+
 - For advertising and youtube marketing:
 
   - Die Antwoord has a high view count per video at 10,18 M which is expected for a music channel
